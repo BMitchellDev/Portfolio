@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio of work
+A simple portfolio of work
